@@ -1,7 +1,5 @@
 from bs4 import BeautifulSoup
-#import requests
-# import sqlite3
-# import csv
+
 
 try:
     fhand = open('example.html')
@@ -12,5 +10,3 @@ try:
     print(split_details)
 except:
     print('File Not Found')
-# finally:
-#     fhand.close()

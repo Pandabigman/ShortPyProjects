@@ -1,5 +1,6 @@
 # Short Python Projects 
 
-# will try to upload a new project every week
+Sectioned into diff folders
+will try to upload a new project every week
 ~lol
 
